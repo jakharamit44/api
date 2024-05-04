@@ -3,7 +3,7 @@ from pymongo import MongoClient
 import os
 
 # Replace YOUR_MONGO_DB_URL with your MongoDB URL, same as used on bot
-MONGO_DB_URL = "YOUR_MONGO_DB_URL"
+MONGO_DB_URL = "mongodb://mongo:yYPwimSLTPQXCvxyCovkvEsFHWMlgdYV@roundhouse.proxy.rlwy.net:53074"
 
 db = MongoClient(MONGO_DB_URL)['BetterTGStreamer']['files']
 
