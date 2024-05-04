@@ -1,5 +1,5 @@
 // BetterTGStreamer DB API URL
-const DB_API_URL = "stunning-determination-production.up.railway.app";
+const DB_API_URL = "https://stunning-determination-production.up.railway.app";
 
 // Variables below must be same as used by bot
 const UPLOADER_BOTS_1 = ["bot_token_1", "bot_token_2"]
