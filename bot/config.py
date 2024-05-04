@@ -8,18 +8,18 @@ MAIN_BOT_TOKEN = "main_bot_token"
 LOGGER_BOT_TOKEN = "logger_bot_token"
 
 # Bot tokens for STORAGE_CHANNEL_1, they all must be admin in the channel
-UPLOADER_BOTS_1 = ["bot_token1", "bot_token2", "bot_token3"]
+UPLOADER_BOTS_1 = ["7092415941:AAE6fvm2DAANcHgCFuIFQbrb2JUqPaRtqog", "7005857065:AAEwa-AaD-OLIdjLziCN-mvmMosPCLaIBKA", "6785391905:AAFTloV690JYo6TQMIUlQXa8pQ0kEozgtpU"]
 
 # Bot tokens for STORAGE_CHANNEL_2, they all must be admin in the channel
-UPLOADER_BOTS_2 = ["bot_token4", "bot_token5", "bot_token6"]
+UPLOADER_BOTS_2 = ["7167715976:AAE7D6nkm2ELCgAsXK7IGUOlpkGFxdad4Vo", "6751989885:AAEIxK_wQSmbk3UgeT3Y6zxGmCgeUF3HNMA", "bot_token6"]
 
 # Telegram Channel ID where videos will be stored
-VIDEO_STORAGE = -1001234567890
+VIDEO_STORAGE = -1002133672128
 # Telegram Channel ID where logs will be stored
-LOGGER_CHANNEL = -1001234567890
+LOGGER_CHANNEL = -1002146191116
 # Telegram Channel ID where m3u8 file will be stored
-STORAGE_CHANNEL_1 = -1001234567890
-STORAGE_CHANNEL_2 = -1001234567890
+STORAGE_CHANNEL_1 = -1002091415759
+STORAGE_CHANNEL_2 = -1002091415759
 
 # Max no. of tasks to run simultaneously
 MAX_ACTIVE_TASKS = 5
